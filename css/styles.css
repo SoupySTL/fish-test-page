@@ -1,0 +1,13 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.about {
+  text-align: center;
+  color: burlywood;
+  background: cadetblue;
+}
